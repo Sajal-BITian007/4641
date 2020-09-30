@@ -1,3 +1,4 @@
+#Don't change anything unless you are 100% sure...
 <?php
 $page = "projects";
 include "header.php";
